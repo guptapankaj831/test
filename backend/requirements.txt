@@ -1,0 +1,21 @@
+# API
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.6
+pydantic-settings>=2.2
+
+# Database
+sqlalchemy>=2.0
+pymysql>=1.1
+cryptography>=42.0
+
+# LLM & orchestration
+openai>=1.40
+langchain-core>=0.2
+langchain-openai>=0.1
+
+# Vector store (schema RAG)
+chromadb>=0.5
+
+# SQL validation
+sqlglot>=25.0
