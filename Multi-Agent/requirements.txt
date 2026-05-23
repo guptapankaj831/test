@@ -1,0 +1,3 @@
+# Convenience aggregator — installs everything for local dev.
+-r backend/requirements.txt
+-r frontend/requirements.txt
